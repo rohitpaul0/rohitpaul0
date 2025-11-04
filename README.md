@@ -1,48 +1,53 @@
-<h1 align="center">Hi 👋, I'm Rohit</h1>
-<h3 align="center">A passionate Computer Science student 🚀 building my way into the world of programming and software development.</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=8A2BE2&lines=Hi+There!+%F0%9F%91%8B+I'm+Rohit;" alt="Hi There! 👋 I'm Rohit" />
+</p>
+<h3 align="center" style="color:#666;">
+  🚀 A passionate Computer Science student building creative software solutions
+</h3>
 <p align="center">
   <img align="center" width="350" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952ci26eltts7jiemo0odtk4mhjfgk7h5xaycybs9bv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 </p>
 
 ---
 
-### 👨‍💻 About Me:
-- 🌱 I’m currently learning **React.js** to create dynamic user interfaces.
-- 💡 Exploring the latest trends in **web development** and **UI/UX design**.
-- 📧 How to reach me: **rohitpaul9734@gmail.com**
+### 👨‍💻 About Me
+- 🌱 Learning **React.js** and exploring backend with **Appwrite** & **MongoDB**
+- 💡 Interested in modern **web technologies**, **system design**, and user-centered interfaces  
+- ✨ Love turning ideas into real, scalable applications  
+- 📫 Reach me at **rohitpaul9734@gmail.com**
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/rohit paul" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  <a href="mailto:rohitpaul9734@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 <p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="50" height="50" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,tailwind,mongodb" alt="Tech Stack" height="50" />
 </p>
+<p align="center" style="margin-top: 10px;">
+  <img src="https://skillicons.dev/icons?i=appwrite,git,github,vscode" alt="Tech Stack" height="50" />
+</p>
+
 
 ---
 
-### 🚀 Fun Fact:
+### 🚀 Fun Fact
 _"Every great developer you know started as a beginner."_ 😊
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohitpaul0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rohitpaul0&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
