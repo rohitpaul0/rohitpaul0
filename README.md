@@ -20,11 +20,17 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/rohit paul" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45"/>
+  <a href="https://linkedin.com/in/rohitrph" target="_blank" style="text-decoration:none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rohitpaul9734@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="45" height="45"/>
+  <a href="mailto:rohitpaul9734@gmail.com" target="_blank" style="text-decoration:none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://facebook.com/rohitpaul" target="_blank" style="text-decoration:none; margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/r0hit_paul" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
